@@ -6,6 +6,8 @@ UCLA Computer Science graduate currently pursuing an M.S. in Data Science Engine
 **Interests:** Mathematics - Physics - Computer Science - Machine Learning - Data Science - Quantum Computing - 3D Design - Graphic Design
 
 **Hobbies:** Soccer - Swimming - Running - Mountain Climbing - Chess - Board Games - Lego - Movies - F1
+
+[aarampetrosyann.github.io](https://aarampetrosyann.github.io)
 <!--
 **aarampetrosyann/aarampetrosyann** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
